@@ -12,7 +12,7 @@ Asegúrate de tener instalado:
 1.  **Clona el repositorio** (si aún no lo has hecho):
 
     ```bash
-    git clone [URL_DEL_REPOSITORIO]
+    git clone https://github.com/Luvasc/backend-Producto-Profe
     cd backend-Producto-Profe  
     ```
 
